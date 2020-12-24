@@ -1,3 +1,9 @@
 ### Meet David
 
-###### Hello I am David, a Software Engineer with over 5 years of experience in building web and mobile applications. I started off as an Android developer(Java) but ended up as a Fullstack Developer at my previous job. Currently, I work with Javasvript (React/React-Native and Nodejs) at my place of work while I work with Ruby on Rails on my side projects at home.
+Hello, I am David, a Fullstack Software Engineer with a strong focus on Frontend.
+
+I currently work as a Frontend Engineer at Kobo360 in Lagos, Nigeria.
+
+My tech stack is Reactjs, NodeJs, React-Native, MongoDB, ExpressJs, Postgres, Docker and a bit of Golang. 
+
+You can reach out to me at factomeme at gmail dot com
